@@ -8,15 +8,15 @@ const fs = require('fs')
 const chalk = require('chalk')
 
 //contact details
-global.ownernomer = "263714757857"
-global.ownername = "*King Malvin*"
+global.ownernomer = "237682698517"
+global.ownername = "*FARADAY*"
 global.ytname = "YT: Malvin King Tech"
 global.socialm = ""
 global.location = "Zimbabwe, Kwekwe, Newtown"
 
 global.ownernumber = '263714757857'  //creator number
 global.ownername = 'Malvin' //owner name
-global.botname = 'Malvin-bug-bot' //name of the bot
+global.botname = 'READY FOR WAR' //name of the bot
 
 //sticker details
 global.packname = 'Sticker By Malvin'
@@ -27,7 +27,7 @@ global.themeemoji = '😡'
 global.wm = "Malvin"
 
 //theme link
-global.link = 'https://whatsapp.com/channel/0029Vac8SosLY6d7CAFndv3Z'
+global.link = 'https://whatsapp.com/chaVac8SosLY6d7CAFndv3Z'
 
 //custom prefix
 global.prefa = ['','!','.','#','&']
